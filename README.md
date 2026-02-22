@@ -39,16 +39,6 @@ If a bug is real, it should be exploitable with **one helper contract**.
 
 ---
 
-## 🧪 Completed / In-Progress Levels
-
-| Level | Vulnerability | Status |
-|------|--------------|--------|
-| Fallback | Access control via fallback | ✅ |
-| Fallout | Misnamed constructor | ✅ |
-| CoinFlip | Predictable on-chain randomness | 🔄 |
-| Telephone | `tx.origin` misuse | ⏳ |
-
----
 
 ## 📂 Repository Structure
 
